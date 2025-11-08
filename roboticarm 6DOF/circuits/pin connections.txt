@@ -1,0 +1,22 @@
+ROTARY ENCODER:
+  CLK -> D2
+  DT  -> D4
+  SW  -> D12
+
+PUSH BUTTONS:
+  Button 1 (Next Servo)     -> D7
+  Button 2 (Previous Servo) -> D8
+  Button 3 (Angle Adjust)   -> D13
+
+SERVOS:
+  Servo 1 -> D3
+  Servo 2 -> D5
+  Servo 3 -> D6
+  Servo 4 -> D9
+  Servo 5 -> D10
+  Servo 6 -> D11
+
+POWER:
+  Servo Vcc -> 5V
+  Servo GND -> GND
+  Arduino Power -> 5v2A

@@ -1,0 +1,55 @@
+# Setup Guide
+
+## Step 1: Hardware Connections
+- Connect rotary encoder:
+  - CLK → D2  
+  - DT → D4 
+  - SW → D8  
+- Push Buttons:
+  - Next Servo → D7  
+  - Previous Servo → D12  
+  - Angle Adjust → D13  
+- Servos:
+  - Servo 1–6 → D3,D5,D6,D9,D10,D11  
+- Power:
+  - External 5V (2A min) supply for servos  
+  - Common ground between Arduino and servo power
+
+---
+
+## Step 2: Software Setup
+1. Install **Arduino IDE** (v2.x or later).  
+2. Open `code/robotic_arm_encoder_control.ino`.  
+3. Select the board: **Arduino Uno / Nano**.  
+4. Select the correct COM port.  
+5. Upload the sketch.
+
+---
+
+## Step 3: Operation
+- Rotate the encoder to adjust servo angle (+5° / –5°).  
+- Press **Next** or **Previous** to select servo.  
+- Press **Angle Adjust** to toggle live movement.  
+- Press encoder push to reset step size (speed).
+
+---
+
+## Step 4: Testing
+1. Open Serial Monitor at **9600 baud**.  
+2. Observe servo switching and angle values.  
+3. Test full range from 0° to 180° for each servo.
+
+---
+
+## Step 5: Safety Notes
+- Ensure **common ground** between Arduino and external power.  
+- Do not exceed **5V** supply to servos.  
+- Use **capacitors** (100µF) near servo power lines for stability.  
+- Avoid overloading the arm joints.
+
+---
+
+## Step 6: Optional Enhancements
+- Add OLED display for servo angle visualization.  
+- Integrate ESP32 for wireless control.  
+- Add joystick input for dual-axis control.
