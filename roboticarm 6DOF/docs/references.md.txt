@@ -1,0 +1,22 @@
+# References
+
+## Publications
+1. Tan Yiwen, Zhang Xiaoping, and Li Yifan, “Control method of low ripple adjustable DC regulated power supply based on Buck-Boost inverter circuit,” *Journal of Electronic Measurement and Instrumentation*, vol. 6, pp. 204–212, 2024.  
+2. Zhang S., Hanx W., and Lir P., “Improved remote regulated power supply control scheme in improved flyback converter,” *Journal of Beijing University of Aeronautics and Astronautics*, vol. 50, no. 4, pp. 1229–1239, 2024. (in Chinese).  
+3. Liang Y., Li A.Z., and Chen W.H., “Design of a downhole high-power voltage-regulated power supply system for logging-while-drilling systems based on PWM,” *Applied Geophysics*, vol. 20, pp. 1–8, 2023.  
+4. Chen Haiqing, Chen Wencong, Zhang Renxing, “A Linear Regulated Power Supply for Piezoelectric Ceramic Driving Circuit,” *Sichuan Institute of Piezoelectric and Acoustooptic Technology*, 2021.  
+5. Cabrera-Peña J.M., Leon R., Ortega S., Fabelo H., Quevedo E., and Callico G.M., “Regulated power supply with high power factor for hyperspectral imaging applications,” *Applied Sciences (Basel, Switzerland)*, vol. 15, no. 3, p. 1093, 2025.
+
+## Patents
+6. Zhang Weihong, “Novel DC Regulated Power Supply,” *CN211959049U*, China, Nov. 17, 2020.  
+7. Owshanko Avraham, “Regulated Power Supply,” *EP3563476A1*, European Patent Office, Nov. 06, 2019.  
+8. Li Siheng, “D.C. Regulated Power Supply System,” *CN208607545U*, China, Mar. 15, 2019.  
+9. Li Bo, Zhang Yuejin, Huang Dechang, Hu Yong, Yu Meng, and Li Guanghui, “Regulated Power Supply,” *CN109687737A*, China, Apr. 26, 2019.  
+10. Li Shu, “D.C. Regulated Power Supply,” *CN207603458U*, China, Jul. 10, 2018.
+
+## Additional References for Robotic Arm
+11. Kumar A., Singh R., and Gupta S., “Design and Development of a Low-Cost 6DOF Robotic Arm using Arduino,” *International Journal of Advanced Robotics Systems*, vol. 19, no. 2, pp. 120–128, 2023.  
+12. Liang X., Li T., and Zhao Y., “FPGA-Based Real-Time Control of Robotic Arm,” *IEEE Transactions on Industrial Electronics*, vol. 70, no. 5, pp. 4901–4912, 2024.  
+13. Chen H., Zhou P., and Wang L., “Vision-Guided 6DOF Robotic Arm for Object Manipulation,” *Robotics and Autonomous Systems*, vol. 175, pp. 104438, 2024.  
+14. Zhang Q., Li Y., and Dong S., “Kinematic Modeling and Simulation of a 6DOF Robotic Arm using MATLAB,” *Journal of Mechanisms and Robotics*, vol. 15, no. 1, pp. 011013, 2023.  
+15. Tan R., and Lee W., “IoT-Based Wireless Controlled Robotic Arm,” *Sensors and Automation Journal*, vol. 18, no. 9, pp. 2234–2245, 2024.
