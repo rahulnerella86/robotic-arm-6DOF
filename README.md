@@ -35,13 +35,17 @@ A rotary encoder changes the servo angle, while three push buttons handle servo 
 | Component | Arduino Pin |
 |------------|--------------|
 | Encoder CLK | D2 |
-| Encoder DT | D3 |
-| Encoder SW | D4 |
-| Button 1 (Next Servo) | D5 |
-| Button 2 (Previous Servo) | D6 |
-| Button 3 (Angle Adjust) | D7 |
-| Servos 1–6 | D8–D13 |
-
+| Encoder DT | D4 |
+| Encoder SW | D12 |
+| Button 1 (Next Servo) | D7 |
+| Button 2 (Previous Servo) | D8 |
+| Button 3 (Angle Adjust) | D13 |
+| Servo 1 | D3 |
+| Servo 2 | D5 |
+| Servo 3 | D6 |
+| Servo 4 | D9 |
+| Servo 5 | D10 |
+| Servo 6 | D11 |
 ---
 
 ## 🚀 Working Principle
